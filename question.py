@@ -3,6 +3,7 @@ import sys
 import random
 import re
 import colorama
+import argparse
 
 class Question(object):
     class BadParse(Exception):
@@ -41,7 +42,14 @@ def red(astring):
 def main(args):
     score = 0
     count = 0
-    questions = list(read_questions(open(args[1])))
+    parser = argparse.ArgumentParser()
+    parser.add_argument("questionfile", help="File containing questions")
+    options = parser.parse_args(args)
+
+    print options.questionfile
+    with open(options.questionfile) as qf:
+        questions = list(read_questions(qf))
+
     try:
         while True:
             question = random.choice(questions)
@@ -59,4 +67,4 @@ def main(args):
         pass
     print colorama.Fore.GREEN+"Score:", score, count
 
-main(sys.argv)
+main(sys.argv[1:])
