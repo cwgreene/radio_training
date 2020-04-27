@@ -10,7 +10,7 @@ class Question(object):
         pass
     def __init__(self, astring):
         result = []
-        for line in astring.split("\r\n"):
+        for line in astring.split("\n"):
             if re.match("^T[0-9][A-Z][0-9]*", line):
                 self.header = line
                 self.answer = re.findall(r"T[0-9][A-Z][0-9]* \(([A-Z])\)", line)[0]
@@ -46,25 +46,24 @@ def main(args):
     parser.add_argument("questionfile", help="File containing questions")
     options = parser.parse_args(args)
 
-    print options.questionfile
+    print(options.questionfile)
     with open(options.questionfile) as qf:
         questions = list(read_questions(qf))
 
     try:
         while True:
             question = random.choice(questions)
-            print question.question
-            guess = raw_input().lower()
+            print(question.question)
+            guess = input().lower()
             count += 1
             if guess == question.answer.lower():
-                print green("Correct!")
+                print(green("Correct!"))
                 score +=1
             elif guess not in "abcdef":
                 break
             else:
-                print red("No, "+ question.answer)
+                print(red("No, "+ question.answer))
     except KeyboardInterrupt:
         pass
-    print colorama.Fore.GREEN+"Score:", score, count
-
+    print(colorama.Fore.GREEN+"Score:", score, count, colorama.Fore.RESET)
 main(sys.argv[1:])
