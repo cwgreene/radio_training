@@ -47,9 +47,9 @@ D. All of these choices are correct
 T1A06 (D) [97.101 (d), 97.303 (o)(2)]
 Which of the following services are protected from interference by amateur signals under all circumstances?
 A. Citizens Radio Service
-B.†Broadcast Service
+B.¬†Broadcast Service
 C. Land Mobile Radio Service
-D.†Radionavigation Service
+D.¬†Radionavigation Service
 ~~
 
 T1A07 (C) [97.3(a)(46)]
@@ -209,7 +209,7 @@ D. CW and SSB
 
 T1B12 (B) [97.301]
 Why are frequency assignments for U.S. stations operating maritime mobile not the same everywhere in the world?
-A.†Amateur maritime mobile stations in international waters must conform to the frequency assignments of the country nearest to their vessel
+A.¬†Amateur maritime mobile stations in international waters must conform to the frequency assignments of the country nearest to their vessel
 B. Amateur frequency assignments can vary among the three ITU regions
 C. Frequency assignments are determined by the captain of the vessel
 D. Amateur frequency assignments are different in each of the 90 ITU zones
@@ -302,7 +302,7 @@ T1C10 (C) [97.5a]
 How soon after passing the examination for your first amateur radio license may you operate a transmitter on an amateur service frequency? 
 A. Immediately
 B. 30 days after the test date
-C. As soon as your operator/station license grant appears in the FCCís license database
+C. As soon as your operator/station license grant appears in the FCC‚Äôs license database
 D. You must wait until you receive your license in the mail from the FCC
 ~~
 
@@ -412,7 +412,7 @@ D. Only when using amateur repeaters linked to the Internet
 ~~
 
 T1D10 (D) [97.3(a)(10)]
-What is the meaning of the term ìbroadcastingî in the FCC rules for the amateur services?
+What is the meaning of the term ‚Äúbroadcasting‚Äù in the FCC rules for the amateur services?
 A. Two-way transmissions by amateur stations
 B. Transmission of music
 C. Transmission of messages directed only to amateur operators 
@@ -472,7 +472,7 @@ D. The class of operator license held by the control operator
 
 T1E05 (C) [97.3(a)(14)]
 What is an amateur station control point?
-A. The location of the stationís transmitting antenna
+A. The location of the station‚Äôs transmitting antenna
 B. The location of the station transmitting apparatus 
 C. The location at which the control operator function is performed
 D. The mailing address of the station licensee
@@ -546,7 +546,7 @@ D. Broadcast station
 ~~
 
 T1F02 (C) [97.119 (a)]
-When using tactical identifiers such as ìRace Headquartersî during a community service net operation, how often must your station transmit the stationís FCC-assigned call sign? 
+When using tactical identifiers such as ‚ÄúRace Headquarters‚Äù during a community service net operation, how often must your station transmit the station‚Äôs FCC-assigned call sign? 
 A. Never, the tactical call is sufficient
 B. Once during every hour
 C. At the end of each communication and every ten minutes during a communication
@@ -681,9 +681,9 @@ D. Wait for the station to call CQ then answer it
 
 T2A05 (C)
 How should you respond to a station calling CQ?
-A. Transmit CQ followed by the other stationís call sign
-B. Transmit your call sign followed by the other stationís call sign
-C. Transmit the other stationís call sign followed by your call sign
+A. Transmit CQ followed by the other station‚Äôs call sign
+B. Transmit your call sign followed by the other station‚Äôs call sign
+C. Transmit the other station‚Äôs call sign followed by your call sign
 D. Transmit a signal report followed by your call sign
 ~~
 
@@ -704,7 +704,7 @@ D. Station identification is required at least every ten minutes during the test
 ~~
 
 T2A08 (D)
-What is the meaning of the procedural signal ìCQî?
+What is the meaning of the procedural signal ‚ÄúCQ‚Äù?
 A. Call on the quarter hour
 B. A new antenna is being tested (no station should answer)
 C. Only the called station should transmit
@@ -712,11 +712,11 @@ D. Calling any station
 ~~
 
 T2A09 (B)
-What brief statement is often transmitted in place of ìCQî to indicate that you are listening on a repeater?
-A. The words ìHello testî followed by your call sign
+What brief statement is often transmitted in place of ‚ÄúCQ‚Äù to indicate that you are listening on a repeater?
+A. The words ‚ÄúHello test‚Äù followed by your call sign
 B. Your call sign 
 C. The repeater call sign followed by your call sign
-D. The letters ìQSYî followed by your call sign
+D. The letters ‚ÄúQSY‚Äù followed by your call sign
 ~~
 
 T2A10 (A)
@@ -743,7 +743,7 @@ C. Make sure you are in your assigned band
 D. All of these choices are correct
 ~~
 
-T2B ñ VHF/UHF operating practices: SSB phone; FM repeater; simplex; splits and shifts; CTCSS; DTMF; tone squelch; carrier squelch; phonetics; operational problem resolution; Q signals 
+T2B ‚Äì VHF/UHF operating practices: SSB phone; FM repeater; simplex; splits and shifts; CTCSS; DTMF; tone squelch; carrier squelch; phonetics; operational problem resolution; Q signals 
 ~@
 
 T2B01 (C)
@@ -850,7 +850,7 @@ C. It is permitted in at least some portion of all the amateur bands above 50 MH
 D. It is permitted only on when power is limited to no more than 100 watts
 ~~
 
-T2C ñ Public service: emergency and non-emergency operations; applicability of FCC rules; RACES and ARES; net and traffic procedures; emergency restrictions
+T2C ‚Äì Public service: emergency and non-emergency operations; applicability of FCC rules; RACES and ARES; net and traffic procedures; emergency restrictions
 ~@
 
 T2C01 (D) [97.103(a)]
@@ -865,7 +865,7 @@ T2C02 (C)
 What is one way to recharge a 12-volt lead-acid station battery if the commercial power is out?
 A. Cool the battery in ice for several hours
 B. Add acid to the battery
-C. Connect the battery in parallel with a vehicleís battery and run the engine
+C. Connect the battery in parallel with a vehicle‚Äôs battery and run the engine
 D. All of these choices are correct
 ~~
 
@@ -934,7 +934,7 @@ D. The information needed to track the message as it passes through the amateur 
 ~~
 
 T2C11 (A)
-What is meant by the term ìcheckî in reference to a formal traffic message?
+What is meant by the term ‚Äúcheck‚Äù in reference to a formal traffic message?
 A. The check is a count of the number of words or word equivalents in the text portion of the message
 B. The check is the value of a money order attached to the message
 C. The check is a list of stations that have relayed the message
@@ -949,14 +949,14 @@ C. A training program that provides licensing courses for those interested in ob
 D. A training program that certifies amateur operators for membership in the Radio Amateur Civil Emergency Service
 ~~
 
-SUBELEMENT T3 ñ Radio wave characteristics: properties of radio waves; propagation modes ñ [3 Exam Questions - 3 Groups]
+SUBELEMENT T3 ‚Äì Radio wave characteristics: properties of radio waves; propagation modes ‚Äì [3 Exam Questions - 3 Groups]
 ~#
 
 T3A - Radio wave characteristics: how a radio signal travels; fading; multipath; wavelength vs. penetration; antenna orientation
 ~@
 
 T3A01 (D)
-What should you do if another operator reports that your stationís 2 meter signals were strong just a moment ago, but now they are weak or distorted?
+What should you do if another operator reports that your station‚Äôs 2 meter signals were strong just a moment ago, but now they are weak or distorted?
 A. Change the batteries in your radio to a different type
 B. Turn on the CTCSS tone
 C. Ask the other operator to adjust his squelch control
@@ -1233,10 +1233,10 @@ C. 70 centimeters or 1.25 meters
 D. All of these choices are correct
 ~~
 
-SUBELEMENT T4 - Amateur radio practices and station set up ñ [2 Exam Questions - 2 Groups]
+SUBELEMENT T4 - Amateur radio practices and station set up ‚Äì [2 Exam Questions - 2 Groups]
 ~#
 
-T4A ñ Station setup: connecting microphones; reducing unwanted emissions; power source; connecting a computer; RF grounding; connecting digital equipment; connecting an SWR meter
+T4A ‚Äì Station setup: connecting microphones; reducing unwanted emissions; power source; connecting a computer; RF grounding; connecting digital equipment; connecting an SWR meter
 ~@
 
 T4A01 (B)
@@ -1288,7 +1288,7 @@ D. Antenna
 ~~
 
 T4A07 (C)
-How is a computerís sound card used when conducting digital communications using a computer?
+How is a computer‚Äôs sound card used when conducting digital communications using a computer?
 A. The sound card communicates between the computer CPU and the video display
 B. The sound card records the audio frequency for video display
 C. The sound card provides audio to the microphone input and converts received audio to digital form
@@ -1312,7 +1312,7 @@ D. Ferrite choke
 ~~
 
 T4A10 (B)
-What is the source of a high-pitched whine that varies with engine speed in a mobile transceiverís receive audio?
+What is the source of a high-pitched whine that varies with engine speed in a mobile transceiver‚Äôs receive audio?
 A. The ignition system
 B. The alternator
 C. The electric fuel pump
@@ -1324,7 +1324,7 @@ Where should the negative return connection of a mobile transceiver's power cabl
 A. At the battery or engine block ground strap
 B. At the antenna mount
 C. To any metal part of the vehicle
-D. Through the transceiverís mounting bracket
+D. Through the transceiver‚Äôs mounting bracket
 ~~
 
 T4A12 (D)
@@ -1332,7 +1332,7 @@ What could be happening if another operator reports a variable high-pitched whin
 A. Your microphone is picking up noise from an open window
 B. You have the volume on your receiver set too high
 C. You need to adjust your squelch control
-D. Noise on the vehicleís electrical system is being transmitted along with your speech audio
+D. Noise on the vehicle‚Äôs electrical system is being transmitted along with your speech audio
 ~~
 
 T4B - Operating controls: tuning; use of filters; squelch function; AGC; repeater offset; memory channels 
@@ -1387,7 +1387,7 @@ D. The receiver RIT or clarifier
 ~~
 
 T4B07 (B)
-What does the term ìRITî mean?
+What does the term ‚ÄúRIT‚Äù mean?
 A. Receiver Input Tone
 B. Receiver Incremental Tuning
 C. Rectifier Inverter Test
@@ -1420,9 +1420,9 @@ D. 5000 Hz
 
 T4B11 (C)
 Which of the following describes the common meaning of the term "repeater offset"?
-A. The distance between the repeaterís transmit and receive antennas
+A. The distance between the repeater‚Äôs transmit and receive antennas
 B. The time delay before the repeater timer resets
-C. The difference between the repeaterís transmit and receive frequencies
+C. The difference between the repeater‚Äôs transmit and receive frequencies
 D. Matching the antenna impedance to the feed line impedance
 ~~
 
@@ -1434,7 +1434,7 @@ C. To eliminate RF on the station cabling
 D. An asymmetric goniometer control used for antenna matching 
 ~~
 
-SUBELEMENT T5 ñ Electrical principles: math for electronics; electronic principles; Ohmís Law ñ [4 Exam Questions - 4 Groups]
+SUBELEMENT T5 ‚Äì Electrical principles: math for electronics; electronic principles; Ohm‚Äôs Law ‚Äì [4 Exam Questions - 4 Groups]
 ~#
 
 T5A - Electrical principles, units, and terms: current and voltage; conductors and insulators; alternating and direct current
@@ -1687,7 +1687,7 @@ D. Tesla
 ~~
 
 T5C06 (A)
-What does the abbreviation ìRFî refer to? 
+What does the abbreviation ‚ÄúRF‚Äù refer to? 
 A. Radio frequency signals of all types
 B. The resonant frequency of a tuned circuit
 C. The real frequency transmitted as opposed to the apparent frequency
@@ -1750,7 +1750,7 @@ C. Coulombs
 D. Ohms
 ~~
 
-T5D ñ Ohmís Law: formulas and usage 
+T5D ‚Äì Ohm‚Äôs Law: formulas and usage 
 ~@
 
 T5D01 (B)
@@ -1849,7 +1849,7 @@ C. 12 volts
 D. 20 volts
 ~~
 
-SUBELEMENT T6 ñ Electrical components: semiconductors; circuit diagrams; component functions ñ [4 Exam Questions - 4 Groups]
+SUBELEMENT T6 ‚Äì Electrical components: semiconductors; circuit diagrams; component functions ‚Äì [4 Exam Questions - 4 Groups]
 ~#
 
 T6A - Electrical components: fixed and variable resistors; capacitors and inductors; fuses; switches; batteries
@@ -1943,7 +1943,7 @@ C. Lead-acid
 D. Lithium-ion
 ~~
 
-T6B ñ Semiconductors: basic principles and applications of solid state devices; diodes and transistors 
+T6B ‚Äì Semiconductors: basic principles and applications of solid state devices; diodes and transistors 
 ~@
 
 T6B01 (D)
@@ -2248,23 +2248,23 @@ C. To prevent coupling of unwanted signals to or from the wire
 D. To couple the wire to other signals
 ~~
 
-SUBELEMENT T7 ñ Station equipment: common transmitter and receiver problems; antenna measurements; troubleshooting; basic repair and testing ñ [4 Exam Questions - 4 Groups]
+SUBELEMENT T7 ‚Äì Station equipment: common transmitter and receiver problems; antenna measurements; troubleshooting; basic repair and testing ‚Äì [4 Exam Questions - 4 Groups]
 ~#
 
-T7A ñ Station equipment: receivers; transmitters; transceivers; modulation; transverters; low power and weak signal operation; transmit and receive amplifiers
+T7A ‚Äì Station equipment: receivers; transmitters; transceivers; modulation; transverters; low power and weak signal operation; transmit and receive amplifiers
 ~@
 
 T7A01 (B)
 Which term describes the ability of a receiver to detect the presence of a signal?
-A.†Linearity
-B.†Sensitivity
+A.¬†Linearity
+B.¬†Sensitivity
 C. Selectivity
 D. Total Harmonic Distortion
 ~~
 
 T7A02 (B)
 What is a transceiver?
-A.†A type of antenna switch
+A.¬†A type of antenna switch
 B. A unit combining the functions of a transmitter and a receiver
 C. A component in a repeater which filters out unwanted interference
 D. A type of antenna matching network
@@ -2303,7 +2303,7 @@ D. Phase converter
 ~~
 
 T7A07 (D)
-What is meant by term ìPTTî?
+What is meant by term ‚ÄúPTT‚Äù?
 A. Pre-transmission tuning to reduce transmitter harmonic emission
 B. Precise tone transmissions used to limit repeater access to only certain signals
 C. A primary transformer tuner use to match antennas
@@ -2342,7 +2342,7 @@ C. Between a transmitter and antenna tuner
 D. At the receiver's audio output
 ~~
 
-T7B ñ Common transmitter and receiver problems: symptoms of overload and overdrive; distortion; causes of interference; interference and consumer electronics; part 15 devices; over and under modulation; RF feedback; off frequency signals; fading and noise; problems with digital communications interfaces 
+T7B ‚Äì Common transmitter and receiver problems: symptoms of overload and overdrive; distortion; causes of interference; interference and consumer electronics; part 15 devices; over and under modulation; RF feedback; off frequency signals; fading and noise; problems with digital communications interfaces 
 ~@
 
 T7B01 (D)
@@ -2386,7 +2386,7 @@ D. Switch the transmitter to a narrow-band mode
 ~~
 
 T7B06 (A)
-Which of the following actions should you take if a neighbor tells you that your stationís transmissions are interfering with their radio or TV reception?
+Which of the following actions should you take if a neighbor tells you that your station‚Äôs transmissions are interfering with their radio or TV reception?
 A. Make sure that your station is functioning properly and that it does not cause interference to your own radio or television when it is tuned to the same channel 
 B. Immediately turn off your transmitter and contact the nearest FCC office for assistance
 C. Tell them that your license gives you the right to transmit and nothing can be done to reduce the interference
@@ -2402,7 +2402,7 @@ D. All of these choices are correct
 ~~
 
 T7B08 (D)
-What should you do if something in a neighborís home is causing harmful interference to your amateur station?
+What should you do if something in a neighbor‚Äôs home is causing harmful interference to your amateur station?
 A. Work with your neighbor to identify the offending device
 B. Politely inform your neighbor about the rules that prohibit the use of devices which cause interference
 C. Check your station and make sure it meets the standards of good amateur practice
@@ -2412,7 +2412,7 @@ D. All of these choices are correct
 T7B09 (A)
 What is a Part 15 device?
 A. An unlicensed device that may emit low powered radio signals on frequencies used by a licensed service
-B. A type of amateur radio that can legally be used in the citizenís band
+B. A type of amateur radio that can legally be used in the citizen‚Äôs band
 C. A device for long distance communications using special codes sanctioned by the International Amateur Radio Union
 D. A type of test set used to determine whether a transmitter is in compliance with FCC regulation 91.15
 ~~
@@ -2441,7 +2441,7 @@ C. Add a preamplifier to the TV antenna input
 D. Be sure all TV coaxial connectors are installed properly
 ~~
 
-T7C ñ Antenna measurements and troubleshooting: measuring SWR; dummy loads; coaxial cables; feed line failure modes 
+T7C ‚Äì Antenna measurements and troubleshooting: measuring SWR; dummy loads; coaxial cables; feed line failure modes 
 ~@
 
 T7C01 (A)
@@ -2465,7 +2465,7 @@ What, in general terms, is standing wave ratio (SWR)?
 A. A measure of how well a load is matched to a transmission line
 B. The ratio of high to low impedance in a feed line
 C. The transmitter efficiency ratio
-D. An indication of the quality of your stationís ground connection
+D. An indication of the quality of your station‚Äôs ground connection
 ~~
 
 T7C04 (C)
@@ -2519,7 +2519,7 @@ D. Overloading
 T7C10 (D)
 Why should the outer jacket of coaxial cable be resistant to ultraviolet light?
 A. Ultraviolet resistant jackets prevent harmonic radiation
-B. Ultraviolet light can increase losses in the cableís jacket
+B. Ultraviolet light can increase losses in the cable‚Äôs jacket
 C. Ultraviolet and RF signals can mix together, causing interference
 D. Ultraviolet light can damage the jacket and allow water to enter the cable
 ~~
@@ -2548,7 +2548,7 @@ C. A low voltage power supply and a DC relay
 D. A 50 ohm reactance used to terminate a transmission line 
 ~~
 
-T7D ñ Basic repair and testing: soldering; using basic test instruments; connecting a voltmeter, ammeter, or ohmmeter 
+T7D ‚Äì Basic repair and testing: soldering; using basic test instruments; connecting a voltmeter, ammeter, or ohmmeter 
 ~@
 
 T7D01 (B)
@@ -2647,10 +2647,10 @@ C. Ensure that the circuit is grounded through the voltmeter
 D. Ensure that the voltmeter is set to the correct frequency
 ~~
 
-SUBELEMENT T8 ñ Modulation modes: amateur satellite operation; operating activities; non-voice communications ñ [4 Exam Questions - 4 Groups]
+SUBELEMENT T8 ‚Äì Modulation modes: amateur satellite operation; operating activities; non-voice communications ‚Äì [4 Exam Questions - 4 Groups]
 ~#
 
-T8A ñ Modulation modes: bandwidth of various signals; choice of emission type
+T8A ‚Äì Modulation modes: bandwidth of various signals; choice of emission type
 ~@
 
 T8A01 (C)
@@ -2832,7 +2832,7 @@ C. FM Packet
 D. WSJT
 ~~
 
-T8C ñ Operating activities: radio direction finding; radio control; contests; linking over the Internet; grid locators 
+T8C ‚Äì Operating activities: radio direction finding; radio control; contests; linking over the Internet; grid locators 
 ~@
 
 T8C01 (C)
@@ -2895,7 +2895,7 @@ T8C08 (C) [97.215(a)]
 What is required in place of on-air station identification when sending signals to a radio control model using amateur frequencies?
 A. Voice identification must be transmitted every 10 minutes
 B. Morse code ID must be sent once per hour
-C. A label indicating the licenseeís name, call sign and address must be affixed to the transmitter
+C. A label indicating the licensee‚Äôs name, call sign and address must be affixed to the transmitter
 D. A flag must be affixed to the transmitter antenna with the station call sign in 1 inch high letters or larger
 ~~
 
@@ -2940,7 +2940,7 @@ D. A technique for measuring signal strength of an amateur transmitter via the I
 ~~
 
 
-T8D ñ Non-voice communications: image signals; digital modes; CW; packet; PSK31; APRS; error detection and correction; NTSC
+T8D ‚Äì Non-voice communications: image signals; digital modes; CW; packet; PSK31; APRS; error detection and correction; NTSC
 ~@
 
 T8D01 (D)
@@ -2952,7 +2952,7 @@ D. All of these choices are correct
 ~~
 
 T8D02 (A)
-What does the term ìAPRSî mean?
+What does the term ‚ÄúAPRS‚Äù mean?
 A. Automatic Packet Reporting System
 B. Associated Public Radio Station
 C. Auto Planning Radio Set-up
@@ -3031,10 +3031,10 @@ C. A digital scheme whereby the receiving station detects errors and sends a req
 D. A method of compressing the data in a message so more information can be sent in a shorter time 
 ~~
 
-SUBELEMENT T9 ñ Antennas and feed lines - [2 Exam Questions - 2 Groups]
+SUBELEMENT T9 ‚Äì Antennas and feed lines - [2 Exam Questions - 2 Groups]
 ~#
 
-T9A ñ Antennas: vertical and horizontal polarization; concept of gain; common portable and mobile antennas; relationships between antenna length and frequency
+T9A ‚Äì Antennas: vertical and horizontal polarization; concept of gain; common portable and mobile antennas; relationships between antenna length and frequency
 ~@
 
 T9A01 (C)
@@ -3062,7 +3062,7 @@ D. A vertically polarized antenna
 ~~
 
 T9A04 (A)
-What is a disadvantage of the ìrubber duckî antenna supplied with most handheld radio transceivers?
+What is a disadvantage of the ‚Äúrubber duck‚Äù antenna supplied with most handheld radio transceivers?
 A. It does not transmit or receive as effectively as a full-sized antenna
 B. It transmits a circularly polarized signal
 C. If the rubber end cap is lost it will unravel very quickly
@@ -3086,7 +3086,7 @@ D. Isotropic antennas
 ~~
 
 T9A07 (A)
-What is a good reason not to use a ìrubber duckî antenna inside your car?
+What is a good reason not to use a ‚Äúrubber duck‚Äù antenna inside your car?
 A. Signals can be significantly weaker than when it is outside of the vehicle
 B. It might cause your radio to overheat
 C. The SWR might decrease, decreasing the signal strength
@@ -3149,7 +3149,7 @@ C. Installing a spring at the base of the antenna to absorb the effects of colli
 D. Making the antenna heavier so it will resist wind effects when in motion
 ~~
 
-T9B ñ Feed lines: types of feed lines; attenuation vs. frequency; SWR concepts; matching; weather protection; choosing RF connectors and feed lines 
+T9B ‚Äì Feed lines: types of feed lines; attenuation vs. frequency; SWR concepts; matching; weather protection; choosing RF connectors and feed lines 
 ~@
 
 T9B01 (B)
@@ -3239,10 +3239,10 @@ B. Multi-conductor unbalanced cable
 C. Air-insulated hard line
 D. 75-ohm flexible coax
 ~~
-SUBELEMENT T0 ñ Electrical safety: AC and DC power circuits; antenna installation; RF hazards ñ [3 Exam Questions - 3 Groups]
+SUBELEMENT T0 ‚Äì Electrical safety: AC and DC power circuits; antenna installation; RF hazards ‚Äì [3 Exam Questions - 3 Groups]
 ~#
 
-T0A ñ Power circuits and hazards: hazardous voltages; fuses and circuit breakers; grounding; lightning protection; battery safety; electrical code compliance
+T0A ‚Äì Power circuits and hazards: hazardous voltages; fuses and circuit breakers; grounding; lightning protection; battery safety; electrical code compliance
 ~@
 
 T0A01 (B)
@@ -3333,7 +3333,7 @@ C. The fuse might blow if you remove the cover
 D. You might receive an electric shock from the charged stored in large capacitors
 ~~
 
-T0B ñ Antenna safety: tower safety; erecting an antenna support; overhead power lines; installing an antenna
+T0B ‚Äì Antenna safety: tower safety; erecting an antenna support; overhead power lines; installing an antenna
 ~@
 
 T0B01 (C)
